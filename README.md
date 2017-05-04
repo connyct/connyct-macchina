@@ -5,4 +5,4 @@
 * connyct_macchina_websocket_demo.ino -> ESP8266 wifi module code to send data to connyct cloud
 
 ## Detailed Instructions:
-(http://developer.connyct.com/create_your_first_device/using_macchina/)
+** http://developer.connyct.com/create_your_first_device/using_macchina/ **
